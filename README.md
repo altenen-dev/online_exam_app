@@ -19,17 +19,17 @@ This project is a Flutter-based mobile application developed for ITCS444. It's d
 
 Here are some screenshots showcasing the key features of our Online Exam App:
 
-| ![Screenshot 1](images/picture1.png) | ![Screenshot 2](images/picture2.png) | ![Screenshot 3](images/picture3.png) |
+| ![Screenshot 1]([images/](https://github.com/altenen-dev/online_exam_app/blob/master/images/)picture1.png) | ![Screenshot 2]([images/](https://github.com/altenen-dev/online_exam_app/blob/master/images/)picture2.png) | ![Screenshot 3]([images/](https://github.com/altenen-dev/online_exam_app/blob/master/images/)picture3.png) |
 |:-----------------------------------:|:-----------------------------------:|:-----------------------------------:|
 |            Login Screen              |            Sign up Screen              |         Exams Screen               |
 
-| ![Screenshot 4](images/picture4.png) | ![Screenshot 5](images/picture5.png) | ![Screenshot 6](images/picture6.png) |
+| ![Screenshot 4]([images/](https://github.com/altenen-dev/online_exam_app/blob/master/images/)picture4.png) | ![Screenshot 5]([images/](https://github.com/altenen-dev/online_exam_app/blob/master/images/)picture5.png) | ![Screenshot 6]([images/](https://github.com/altenen-dev/online_exam_app/blob/master/images/)picture6.png) |
 |:-----------------------------------:|:-----------------------------------:|:-----------------------------------:|
 |          Profile Management           |            Exam Taking          |        Results View            |
 
 
 
-| ![Screenshot 7](images/picture7.png) | 
+| ![Screenshot 7]([images/](https://github.com/altenen-dev/online_exam_app/blob/master/images/)picture7.png) | 
 |:-----------------------------------:|
           Exam Taking           
 
